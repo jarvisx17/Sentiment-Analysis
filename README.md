@@ -1,1 +1,1 @@
-Hello
+Japanese sentiment BERT
